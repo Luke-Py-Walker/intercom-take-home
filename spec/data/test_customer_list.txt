@@ -1,0 +1,7 @@
+{ latitude: "37", user_id: 6, name: "valid user 2", longitude: "-122.27699" }
+{ latitude: "36.885617", user_id: 2, longitude: "-33.4240951" }
+{ latitude: "36.dd", user_id: 3, name: "invalid user", longitude: "-125.adf" }
+{ latitude: "37", user_id: 7, name: "valid user 3", longitude: "-121.859", random: "attribute"}
+{ latitude: "35.92893", user_id: 4, name: "invalid user", longitude: "-12000000.27699" }
+{ latitude: "36.986375", user_id: 1, name: "valid user", longitude: "-122.043701" }
+{ key: "invalid", bad: "test" }
