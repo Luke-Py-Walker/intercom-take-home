@@ -17,7 +17,7 @@ To execute the code with a customer list, execute the following snippet in termi
 repository.  
 
 ```  
-rake run customer_list_directory  
+rake run[customer_list_directory]  
 ```
 
 Note: `customer_list_directory` would be the path to your customer list (i.e. `/user/lucas/customer_list.txt`)  
